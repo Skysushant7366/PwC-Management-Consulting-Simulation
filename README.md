@@ -82,3 +82,4 @@ Calculate the **total synergy potential** for a **target airline with a $100M re
 This work was completed as part of the **PwC US Management Consulting Job Simulation on Forage**, which focuses on **transaction diligence**, **financial modeling**, and **strategic problem-solving** aligned with real consulting projects.  
 
 ---
+
