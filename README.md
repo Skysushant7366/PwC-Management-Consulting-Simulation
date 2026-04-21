@@ -82,26 +82,3 @@ Calculate the **total synergy potential** for a **target airline with a $100M re
 This work was completed as part of the **PwC US Management Consulting Job Simulation on Forage**, which focuses on **transaction diligence**, **financial modeling**, and **strategic problem-solving** aligned with real consulting projects.  
 
 ---
-
-## 6. High-Impact Resume & LinkedIn Snippets
-
-You can use the following **high-impact bullet points** on your **Resume** or **LinkedIn**:
-
-1. **Synergy Modeling & Profitability Expansion**  
-   - *"Engineered a directional synergy model that identified an **EBIT expansion from 5% to 23.3%** through **five specific operational levers** in an aviation acquisition scenario."*
-
-2. **Technology Sector Financial Due Diligence**  
-   - *"Conducted financial due diligence for a **$280B+ technology leader**, evaluating **AI infrastructure scaling** and **$32.1B in committed datacenter construction**, and assessing implications for EBITDA and long-term cash flows."* 
-
-3. **Divestiture & Separation Strategy**  
-   - *"Structured complex **divestiture frameworks** for business unit separations, focusing on **operational disentanglement**, **shared IP risks**, and CFO-ready interview guides to support go/no-go decisions."*
-
----
-
-## Summary
-
-- This **PwC Management Consulting portfolio** demonstrates capabilities in **financial modeling**, **data analysis**, **M&A strategy**, and **strategic research** applied to aviation, technology, and divestiture scenarios.
-- Featured projects include an **aviation synergy model** with clear EBIT uplift, and **strategic analyses** of the **Microsoft/Activision** merger and a **wearables divestiture**.  
-- The included **resume snippets** are optimized to clearly communicate **quantified impact** and **consulting-style problem solving** for recruiters and hiring managers.  
-
-Hope this helps! Let me know if you want a **shorter version** tailored specifically for GitHub, Resume only, or LinkedIn “About” section.
